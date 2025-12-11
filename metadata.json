@@ -1,0 +1,9 @@
+{
+  "name": "🧠PractiZone™© Beta",
+  "description": "Standalone Practice Management System with embedded AI and virtual backend logic.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
